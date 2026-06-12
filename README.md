@@ -8,4 +8,4 @@ cd Scanlistasm3u
 
 ls
 
-python3 CrystalBlack7_m3u
+python3 CrystalBlack7_m3u.py
