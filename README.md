@@ -2,7 +2,7 @@
 escanear listas m3u
 
 
-git clonehttps://github.com/Correcaminos344/Scanlistasm3u
+git clone https://github.com/Correcaminos344/Scanlistasm3u
 
 cd Scanlistasm3u
 
